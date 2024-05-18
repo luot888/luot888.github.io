@@ -1,0 +1,581 @@
+{
+  "name": "Middle-Module",
+  "title": "平台运营数据",
+  "title_en": "PLATFORM OPERATION DATA",
+  "data": [
+    {
+      "name": "平台项目交易数量",
+      "value": 9156,
+      "unit": "个",
+      "data": [
+        {
+          "name": "China",
+          "value": 4565
+        },
+        {
+          "name": "United States",
+          "value": 6654
+        },
+        {
+          "name": "Japan",
+          "value": 366434
+        },
+        {
+          "name": "Germany",
+          "value": 46535
+        },
+        {
+          "name": "India",
+          "value": 656
+        }
+      ]
+    },
+    {
+      "name": "平台交易金额",
+      "value": 1086,
+      "unit": "元",
+      "data": [
+        {
+          "name": "China",
+          "value": 123
+        },
+        {
+          "name": "United States",
+          "value": 45632
+        },
+        {
+          "name": "Japan",
+          "value": 1045
+        },
+        {
+          "name": "Germany",
+          "value": 25780
+        },
+        {
+          "name": "India",
+          "value": 45630
+        }
+      ]
+    },
+    {
+      "name": "活跃专家数量",
+      "value": 9156,
+      "unit": "人",
+      "data": [
+        {
+          "name": "China",
+          "value": 54687
+        },
+        {
+          "name": "United States",
+          "value": 789
+        },
+        {
+          "name": "Japan",
+          "value": 4789
+        },
+        {
+          "name": "Germany",
+          "value": 48756
+        },
+        {
+          "name": "India",
+          "value": 10235
+        }
+      ]
+    },
+    {
+      "name": "活跃企业用户数",
+      "value": 1016,
+      "unit": "个",
+      "data": [
+        {
+          "name": "China",
+          "value": 35740
+        },
+        {
+          "name": "United States",
+          "value": 45630
+        },
+        {
+          "name": "Japan",
+          "value": 12345
+        },
+        {
+          "name": "Germany",
+          "value": 2546
+        },
+        {
+          "name": "India",
+          "value": 214
+        }
+      ]
+    }
+  ],
+  "chart": [
+    {
+      "name": "平台项目行业分布",
+      "name_en": "TOTAL NUMBER OF PROJECTS",
+      "data": [
+        {
+          "x_title": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "series_0": [10, 52, 200, 334, 390, 330, 220],
+          "series_1": []
+        }
+      ]
+    },
+    {
+      "name": "项目状况",
+      "name_en": "PROJECT STATUSION",
+      "tables": [
+        {
+          "name": "最新发布项目",
+          "data": [
+            {
+              "title": "最新发布项目-标题-0",
+              "sector": "行业领域",
+              "publish": "2022-10-16",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-1",
+              "sector": "行业领域",
+              "publish": "2022-10-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "1",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-2",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "2",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-3",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "3",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-4",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "4",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-5",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "5",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-6",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "6",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新发布项目-标题-7",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "进行中的项目",
+          "data": [
+            {
+              "title": "进行中的项目-标题-0",
+              "sector": "行业领域",
+              "publish": "2022-10-16",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-1",
+              "sector": "行业领域",
+              "publish": "2022-10-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "1",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-2",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "2",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-3",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "3",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-4",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "4",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-5",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "5",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-6",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "6",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "进行中的项目-标题-7",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "最新完成项目",
+          "data": [
+            {
+              "title": "最新完成项目-标题-0",
+              "sector": "行业领域",
+              "publish": "2022-10-16",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-1",
+              "sector": "行业领域",
+              "publish": "2022-10-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "1",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-2",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "2",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-3",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "3",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-4",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "4",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-5",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "5",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-6",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "6",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            },
+            {
+              "title": "最新完成项目-标题-7",
+              "sector": "行业领域",
+              "publish": "2023-01-25",
+              "company": "发布企业",
+              "expert": "匹配专家",
+              "expert_star": "5",
+              "progress": "0",
+              "items": [
+                { "name": "项目发布", "detail": "项目发布内容" },
+                { "name": "项目审核", "detail": "项目审核内容" },
+                { "name": "专家匹配", "detail": "专家匹配内容" },
+                { "name": "项目确认", "detail": "项目确认内容" },
+                { "name": "项目进行", "detail": "项目进行内容" },
+                { "name": "项目验收", "detail": "项目验收内容" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "专家家所在位置分布",
+          "data": [
+            ["北京", "3907"],
+            ["深圳", "2217"],
+            ["纽约", "2217"],
+            ["伦敦", "3097"],
+            ["香港", "3097"],
+            ["东京", "3097"],
+            ["新加坡", "3097"]
+          ]
+        },
+        {
+          "name": "项目属行业分布",
+          "data": [
+            ["人工智能", "3907"],
+            ["数宇经济", "2217"],
+            ["生物医药", "2217"],
+            ["工业制造", "3097"],
+            ["能源环保", "3097"],
+            ["智慧衣业", "3097"],
+            ["貫它领域", "3097"]
+          ]
+        }
+      ]
+    }
+  ]
+}
